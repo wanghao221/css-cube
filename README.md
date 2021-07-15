@@ -10,9 +10,11 @@ Step:1 - install dependencies
 $ npm install
 
 ```
-Step:1 - start the server
+Step:2 - start the server
 
 ```bash
 $ npm start
 
 ```
+
+代码详解：https://haiyong.blog.csdn.net/article/details/118751389
